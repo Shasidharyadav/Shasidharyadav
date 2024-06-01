@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shasidharyadav&label=Profile%20views&color=0e75b6&style=flat" alt="shasidharyadav" /> </p>
 
-<img align = "right" alt ="coding" width = "400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNrOt9SBfFDNeErPAwZ_6Q8jpCHvn291JClDZpOY9lZumZvlPZL-BW7MmtEdnszVTCIF8&usqp=CAU">
+<img align = "right" alt ="coding" width = "400" src="https://github.com/Shasidharyadav/Shasidharyadav/blob/main/WhatsApp%20Image%202024-06-01%20at%201.14.11%20PM.jpeg">
 
 
 - 🔭 I’m currently working at **Brokenatom Company**
