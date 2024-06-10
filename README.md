@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **Shashidharyadavr@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1PhNa0a29sYh-Jbx_SfEgeucuhJ5_fNp_YIyPOlID2yU/edit?usp=sharing](https://docs.google.com/document/d/1PhNa0a29sYh-Jbx_SfEgeucuhJ5_fNp_YIyPOlID2yU/edit?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1blJkHSpfysEjbhWahY7OqkIdtmS4vPCV/view?usp=sharing]
 
 - ⚡ About Me **I am Happy with whatever I do**
 
