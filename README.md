@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shasidhar  Rodda</h1>
-<h3 align="center">Aspiring Software Engineer | Full Stack Developer | Entrepreuneur | Passionate about AI and Web Technology</h3>
+<h3 align="center">Aspiring Software Engineer | Full Stack Developer | Entrepreneur | Passionate about AI and Web Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shasidharyadav&label=Profile%20views&color=0e75b6&style=flat" alt="shasidharyadav" /> </p>
 
